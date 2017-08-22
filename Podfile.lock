@@ -1,0 +1,42 @@
+PODS:
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - DATAFilter (0.9.1):
+    - DATAObjectIDs (~> 0.5.1)
+  - DATAObjectIDs (0.5.1)
+  - DATAStack (4.2.2)
+  - Fabric (1.6.7)
+  - NSDictionary-ANDYSafeValue (0.3.1)
+  - NSEntityDescription-SYNCPrimaryKey (0.1.2):
+    - NSString-HYPNetworking (~> 0.4.0)
+  - NSManagedObject-HYPPropertyMapper (3.6.0):
+    - NSString-HYPNetworking (~> 0.4.0)
+  - NSString-HYPNetworking (0.4.0)
+  - Nuke (3.1.0)
+  - Sync (1.6.2):
+    - DATAFilter (~> 0.9.1)
+    - DATAStack (~> 4.2.2)
+    - NSDictionary-ANDYSafeValue (~> 0.3.1)
+    - NSEntityDescription-SYNCPrimaryKey (~> 0.1.2)
+    - NSManagedObject-HYPPropertyMapper (~> 3.6.0)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - Nuke
+  - Sync
+
+SPEC CHECKSUMS:
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  DATAFilter: 4a1bdc065847e19d9fa1c9dd92ed2d85847967a1
+  DATAObjectIDs: 33db74dd1c858c2d22a45a4013c95f1082182e4e
+  DATAStack: f38df2e6deaf9d2eed15a0a68ba6c4c76e657f8a
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  NSDictionary-ANDYSafeValue: 2d7adf339b6e302d71fec5f1d71ae00aacda993e
+  NSEntityDescription-SYNCPrimaryKey: 9a2b2f7b838913eb445f20cc2f2edca7281fcfa5
+  NSManagedObject-HYPPropertyMapper: dbcaa74a43b522d45dacf1ad1c56b41ef008a0c0
+  NSString-HYPNetworking: 24c3828eebde8a37cc16101a475934a56ac820c0
+  Nuke: e93fa6ad10472c2d46ddca3a9dc92fd65027e40e
+  Sync: 1a1ce76e87f6a532da8167f4f80a6f8699413a29
+
+COCOAPODS: 0.39.0
